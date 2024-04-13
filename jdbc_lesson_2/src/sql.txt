@@ -1,0 +1,3 @@
+update  student set name='Eshmat' where  id=2;" +
+                   "insert into student(id, name, surname) VALUES (3,'Toshmat','Toshmatov')," +
+                   "(4,'Kalish','Kalishev');" +
